@@ -23,8 +23,12 @@ Ce projet est un **robot autonome suiveur de ligne** basé sur **Arduino**. Il u
 
 ## Photos du Projet:
 <img width="286" alt="image" src="https://github.com/user-attachments/assets/8e947b44-97e7-4c95-9b61-104502af32f0" />
-![image](https://github.com/user-attachments/assets/a6d2b34c-51ad-4061-b186-7b1003660a3d)
-![image](https://github.com/user-attachments/assets/9026c11c-7bc7-49e0-b002-e7b4055c640d)
+
+
+![image](https://github.com/user-attachments/assets/c919aede-763c-4ab0-90fe-2c48f128aec1)
+
+
+<img width="678" alt="image" src="https://github.com/user-attachments/assets/09cd8af1-b057-4973-b60a-da597e0ea87c" />
 
 
 
